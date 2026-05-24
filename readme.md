@@ -1,4 +1,4 @@
-<h1>Tophat's Death Swap</h1>
+<h1>Let Me Sit!</h1>
 
 <p>
 <a href="https://modrinth.com/datapack/let-me-sit!">
